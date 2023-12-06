@@ -1,2 +1,2 @@
 # CodingNinjaBlogPage
-<h1>Author:- Ved prakash sharma</h1>
+<p>Author:- Ved prakash sharma<p>
